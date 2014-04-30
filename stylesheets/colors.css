@@ -1,0 +1,19 @@
+/* For easy coloring can be implented later on the base.css  */
+
+body { color:#000; }
+
+a:link, a:visited { color:#000; }
+
+a:hover, a:active, a:focus { color:#000000; }
+
+h1, h2, h3, h4, h5, h6 { color:#000; }
+
+#header #site-name a { color:#fff; }
+
+#header #site-name a:hover { color: #3253ad; }
+
+#header #site-slogan { color: #7d7d7d; }
+
+body { border-color:#375199; }
+
+#wrap { border-color:#4565be; }
