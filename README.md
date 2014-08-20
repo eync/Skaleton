@@ -3,7 +3,7 @@ Skaleton
 
 Skaleton: A Beautiful Extended Boilerplate Template for Responsive, Mobile-Friendly Development based upon Skeleton Project.
 
-##Todo:
+##Todo
 - Add support to polymer
 - Clean the CSS
 - Make CSS file in mind of Drupal
